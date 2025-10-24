@@ -11,3 +11,5 @@ prefered not to use var due to scope problem
 */
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountstate])
+
+
